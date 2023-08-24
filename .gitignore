@@ -1,0 +1,9 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Logs
+logs
+*.log
